@@ -3,6 +3,7 @@ JQuery Plug-in to Sync Heights (only dependancy is JQuery)
 
 Example use: 
 
+```
 $( document ).ready(function() {
 
     // Set up all of the SyncHeights rules...
@@ -29,3 +30,4 @@ $( document ).ready(function() {
     });
 
 });
+```
