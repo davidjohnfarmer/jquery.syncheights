@@ -1,6 +1,8 @@
 # jquery.syncheights
 JQuery Plug-in to Sync Heights (only dependancy is JQuery)
 
+Demo's available here: [SyncHeights JQuery Plugin](http://davidjohnfarmer.co.uk/jquery-plugins/).
+
 Example use: 
 
 ```
