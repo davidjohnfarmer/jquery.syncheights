@@ -1,2 +1,2 @@
 # jquery.syncheights
-JQuery Plug-in to Sync Heights
+JQuery Plug-in to Sync Heights (only dependancy is JQuery)
