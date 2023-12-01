@@ -33,3 +33,5 @@ $( document ).ready(function() {
 
 });
 ```
+
+I used this code (or a similar version) to sync the heights of the labels displayed on category pages. See the [Address Labels page on Label Planet](https://www.labelplanet.co.uk/address-labels/). 
